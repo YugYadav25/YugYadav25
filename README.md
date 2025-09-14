@@ -10,7 +10,7 @@
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/yug-yadav-b27366248/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-yadav-b27366248/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/YugYadav25/)  
 
 ---
