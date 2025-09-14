@@ -16,6 +16,7 @@
 ---
 
 ## 🛠 Tech Stack  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)  
@@ -23,10 +24,5 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Yug’s GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
 
----
-
-## 🚀 Quote I Follow  
-*"Code is like humor. When you have to explain it, it’s bad."* 😅  
+ 
