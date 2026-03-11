@@ -36,24 +36,37 @@ Focused on **Healthcare, SaaS, and AI** — turning complex problems into clean,
 
 ### About Me
 
-- **B.Tech Information Technology** — Charusat University, 2024–2028 &nbsp;|&nbsp; CGPA: **8.76 / 10**
-- Building full-stack web applications with the **MERN Stack** — MongoDB, Express, React, Node.js
-- Passionate about integrating **AI/ML** into production systems — Gemini Multimodal, WebRTC pipelines, and data-driven features
-- Aspiring **MLOps Engineer** — interested in the intersection of AI, automation, and scalable infrastructure
-- Think end-to-end: from UI and state management through APIs, database design, and AI integration
-- Solved **200+ DSA problems** on LeetCode, GFG, and Striver SDE Sheet
+- **B.Tech Information Technology** — Charusat University, 2024–2028 &nbsp;|&nbsp; CGPA: **8.55 / 10**
+- Building production-grade full-stack applications with the **MERN Stack** — MongoDB, Express.js, React, Node.js
+- Aspiring **MLOps Engineer** with a growing focus on **machine learning**, **deep learning**, **cloud infrastructure (AWS)**, and distributed system design
+- Completed **High-Level System Design** — familiar with scalability patterns, load balancing, caching, and database architecture
+- Solved **200+ DSA problems** across LeetCode, GFG, and Striver SDE Sheet — 43% of the SDE Sheet complete
 
 ---
 
 ### Web Development Experience
 
-- Built complete **RESTful backends** using Node.js and Express with MongoDB for real-world applications
-- Designed **concurrency-safe booking systems** — preventing double bookings under simultaneous seat reservations
-- Integrated **Google Gemini AI** for automated driver identity verification from license documents
-- Built a **real-time Live Vision** feature using WebRTC + Gemini Multimodal API for instant nutritional food analysis
-- Implemented **hands-free voice interaction** using Web Speech API and Text-to-Speech for accessibility-first experiences
-- Combined AI responses with verified public nutrition databases to improve reliability and accuracy
-- Optimized MongoDB queries and API responses for efficient ride filtering, status tracking, and vehicle management
+**[RideMate](https://ride-mate-ten.vercel.app/)** &nbsp;—&nbsp; Ride Pooling Platform &nbsp;|&nbsp; Node.js · Express.js · MongoDB · Google Gemini AI
+- Architected the complete backend with RESTful APIs managing users, rides, drivers, and bookings
+- Designed **concurrency-safe booking logic** — preventing double bookings under simultaneous seat reservations
+- Integrated **Google Gemini AI** for automated driver identity verification by extracting and validating license details
+- Optimized MongoDB queries and API responses for ride filtering, status tracking, and vehicle management
+- Impact: Improved vehicle utilization through ride pooling, reducing traffic congestion, fuel usage, and carbon emissions
+
+<p>
+  <a href="https://github.com/YugYadav25/RideMate"><img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+**[ClarioAI](https://clario-ai-pi.vercel.app/)** &nbsp;—&nbsp; AI-Powered Nutrition Assistant &nbsp;|&nbsp; React · TypeScript · Gemini 1.5 Flash · WebRTC · TailwindCSS
+- Built a **real-time Live Vision** feature using WebRTC + Gemini Multimodal API to analyze food via live video and deliver instant nutritional insights
+- Implemented **hands-free voice interaction** using Web Speech API and Text-to-Speech for an accessibility-first experience
+- Combined AI responses with verified public nutrition databases to improve accuracy and reliability
+- Impact: Converts complex chemical and nutritional data into clear, spoken insights — instantly, in real time
+
+<p>
+  <a href="https://github.com/YugYadav25/ClarioAI"><img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://clarioai.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -121,12 +134,6 @@ Focused on **Healthcare, SaaS, and AI** — turning complex problems into clean,
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YugYadav25&bg_color=0d1117&color=c792ea&line=ff6e96&point=ffa657&area=true&area_color=ff6e9630&hide_border=false&border_color=ff6e96&radius=12" width="57%" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YugYadav25&label=Profile+Views&color=ff6e96&style=flat-square" />
-</p>
 
-<p align="center">
-  <i>"Building meaningful things, one commit at a time."</i>
-</p>
+>
