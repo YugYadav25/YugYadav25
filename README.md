@@ -65,7 +65,7 @@ Focused on **Healthcare, SaaS, and AI** — turning complex problems into clean,
 
 <p>
   <a href="https://github.com/YugYadav25/ClarioAI"><img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://clarioai.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=flat-square&logo=vercel&logoColor=white" /></a>
+
 </p>
 
 ---
