@@ -116,11 +116,7 @@ Focused on **Healthcare, SaaS, and AI** — turning complex problems into clean,
 
 ---
 
-### Certifications
 
-- **Meta React** — React Basics & Advanced React
-
----
 
 ### GitHub Stats
 
